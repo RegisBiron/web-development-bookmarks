@@ -1,6 +1,6 @@
 # Web Development Resources
 
-##To-Do's
+## To-Do's
 + Resolve duplicate links
 + Organize/Rename links
 
@@ -233,10 +233,11 @@
 + [Some things beginners might not know about Sublime Text](http://blog.alainmeier.com/post/27255145114/some-things-beginners-might-not-know-about-sublime-text)
 
 ### SVG
-[A Compendium of SVG Information | CSS-Tricks](http://css-tricks.com/mega-list-svg-information/)
-[SVG animation tool | SVG Circus](http://svgcircus.com/)
++ [A Compendium of SVG Information | CSS-Tricks](http://css-tricks.com/mega-list-svg-information/)
++ [SVG animation tool | SVG Circus](http://svgcircus.com/)
 
 ### Terminal
++ [Alias.sh](http://alias.sh/)
 + [An A-Z Index of the Apple OS X command line | SS64 Command line reference](http://ss64.com/osx/)
 + [Introduction to the Mac OS X Command Line - Treehouse BlogTreehouse Blog](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 + [40 Terminal Tips and Tricks You Never Thought You Needed - Tuts+ Mac Computer Skills Tutorial](http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192)
