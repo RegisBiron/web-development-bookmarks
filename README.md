@@ -138,6 +138,7 @@
 + [Dave Gamache](http://davegamache.com/parallax/)
 + [How to Deal with Cookies in JavaScript](http://www.sitepoint.com/how-to-deal-with-cookies-in-javascript/)
 + [How to Learn JavaScript Properly | JavaScript is Sexy](http://javascriptissexy.com/how-to-learn-javascript-properly/)
++ [Make Youtube Like Progress Bar Easily for Your Site](http://voidcanvas.com/make-youtube-like-progress-bar-easily-for-your-page/)
 	+ Plugins
 		+ [nanoScroller.js](http://jamesflorentino.github.io/nanoScrollerJS/)
 		+ [ftlabs/fastclick · GitHub](https://github.com/ftlabs/fastclick)
