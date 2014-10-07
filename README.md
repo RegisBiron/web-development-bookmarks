@@ -321,6 +321,10 @@
 		+ [Tuts Plus: 10 Steps to Securing Your Wordpress Installation](http://code.tutsplus.com/articles/10-steps-to-securing-your-wordpress-installation--wp-21579)
 		+ [Hongkiat Hardening Wordpress Security](http://www.hongkiat.com/blog/hardening-wordpress-security/)
 		+ [20 Steps to Flexible and Secure Worpdress Installation](http://code.tutsplus.com/tutorials/20-steps-to-a-flexible-and-secure-wordpress-installation--wp-13236)
+	+ Starter Themes
+		+ [Bones](https://github.com/eddiemachado/bones)
+		+ [Automattic underscores.me](https://github.com/Automattic/underscores.me)
+		+ [Roots](https://github.com/roots/roots)
 
 ### Yeoman
 + [Getting Started with Sass, Bourbon, and Neat with Yeoman](http://robots.thoughtbot.com/getting-started-with-sass-bourbon-and-neat-with-yeoman)
