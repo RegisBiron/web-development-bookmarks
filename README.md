@@ -239,7 +239,6 @@
 + [SVG animation tool | SVG Circus](http://svgcircus.com/)
 
 ### Terminal
-+ [Alias.sh](http://alias.sh/)
 + [An A-Z Index of the Apple OS X command line | SS64 Command line reference](http://ss64.com/osx/)
 + [Introduction to the Mac OS X Command Line - Treehouse BlogTreehouse Blog](http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line)
 + [40 Terminal Tips and Tricks You Never Thought You Needed - Tuts+ Mac Computer Skills Tutorial](http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192)
@@ -247,23 +246,25 @@
 + [How to Customize the Command Prompt - Tuts+ Code Tutorial](http://code.tutsplus.com/tutorials/how-to-customize-the-command-prompt--net-20586)
 + [ImageMagick: Convert, Edit, Or Compose Bitmap Images](http://www.imagemagick.org/)
 + [ls(1) Mac OS X Manual Page](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man1/ls.1.html)
-+ [My Mac OSX Bash Profile | Nathaniel Landau](http://natelandau.com/my-mac-osx-bash_profile/)
 + [A (Not-Super-Technical) Designer’s Command Line Toolbox — Happy Cog — Medium](https://medium.com/happy-cog/3b5804149430)
 + [Terminal Cheatsheet for Mac ( basics ) · 0nn0/terminal-mac-cheatsheet Wiki · GitHub](https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-))
 + [Example syntax for Secure Copy (scp)](http://www.hypexr.org/linux_scp_help.php)
 + [Command Line Basics | Treehouse Blog](http://blog.teamtreehouse.com/command-line-basics)
 + [Notification Center Updates for Homebrew - Code Workshop](http://codeworkshop.net/posts/notification-center-updates-for-homebrew)
 + [Add Spaces to Dock in OS X | CSS-Tricks](http://css-tricks.com/snippets/html/add-spaces-to-dock-in-os-x/)
-+ [bash:tip\_colors\_and\_formatting - FLOZz' MISC](http://misc.flogisoft.com/bash/tip_colors_and_formatting)
-+ [How to Customize your Bash Prompt on a Linux VPS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-customize-your-bash-prompt-on-a-linux-vps)
-+ [My Mac OSX Bash Profile | Nathaniel Landau](http://natelandau.com/my-mac-osx-bash_profile/)
 + [40 Terminal Tips and Tricks You Never Thought You Needed - Tuts+ Mac Computer Skills Tutorial](http://computers.tutsplus.com/tutorials/40-terminal-tips-and-tricks-you-never-thought-you-needed--mac-51192)
 + [Eight Terminal Utilities Every OS X Command Line User Should Know · mitchchn.me](http://www.mitchchn.me/2014/os-x-terminal/)
 + [Terminal Cheatsheet for Mac ( basics ) · 0nn0/terminal-mac-cheatsheet Wiki · GitHub](https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-))
 + [Example syntax for Secure Copy (scp)](http://www.hypexr.org/linux_scp_help.php)
 + [chmod Man Page | Bash | SS64.com](http://ss64.com/bash/chmod.html)
 + [Bigdino Blog](http://blog.bigdinosaur.org/easy-ps1-colors/)
-+ [bash:tip\_colors\_and\_formatting - FLOZz' MISC](http://misc.flogisoft.com/bash/tip_colors_and_formatting)
+	+ Bash
+		+ [Alias.sh](http://alias.sh/)
+		+ [Halloween Bash](http://xta.github.io/HalloweenBash/)
+		+ [bash:tip\_colors\_and\_formatting - FLOZz' MISC](http://misc.flogisoft.com/bash/tip_colors_and_formatting)
+		+ [My Mac OSX Bash Profile | Nathaniel Landau](http://natelandau.com/my-mac-osx-bash_profile/)
+		+ [bash:tip\_colors\_and\_formatting - FLOZz' MISC](http://misc.flogisoft.com/bash/tip_colors_and_formatting)
+		+ [How to Customize your Bash Prompt on a Linux VPS | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-customize-your-bash-prompt-on-a-linux-vps)
 
 ### VIM
 + [My vi/vim cheatsheet](http://www.worldtimzone.com/res/vi.html)
