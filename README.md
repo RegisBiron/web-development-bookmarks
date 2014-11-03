@@ -146,6 +146,7 @@
 		+ [sorrycc/awesome-javascript · GitHub](https://github.com/sorrycc/awesome-javascript)
 		+ [desandro/imagesloaded · GitHub](https://github.com/desandro/imagesloaded)
 		+ [[be]lazy.js || A lazy loading and multi-serving image script](http://dinbror.dk/blazy/)
+	+ Snippets [Get scroll percentage of an element](http://jsfiddle.net/xanfar/Uwb55/3/)
 
 ### MAMP
 + [How do I connect to this localhost from another computer on the same network? - Stack Overflow](http://stackoverflow.com/questions/9682262/how-do-i-connect-to-this-localhost-from-another-computer-on-the-same-network)
