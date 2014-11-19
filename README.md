@@ -269,8 +269,12 @@
 ### VIM
 + [My vi/vim cheatsheet](http://www.worldtimzone.com/res/vi.html)
 + [Vim for people who think things like Vim are weird and hard – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts](http://csswizardry.com/2014/06/vim-for-people-who-think-things-like-vim-are-weird-and-hard/)
-+ [Graphical vi-vim Cheat Sheet and Tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)+
-+ [dotfiles/.vimrc at master · csswizardry/dotfiles · GitHub](https://github.com/csswizardry/dotfiles/blob/master/.vimrc)+
++ [Graphical vi-vim Cheat Sheet and Tutorial](http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html)
++ [dotfiles/.vimrc at master · csswizardry/dotfiles · GitHub](https://github.com/csswizardry/dotfiles/blob/master/.vimrc)
+
+### VirtualBox
++ [Android 4.0 in VirtualBox](https://www.kirsle.net/blog/entry/android-4-0-in-virtualbox)
++ [Android x86: How to change the screen orientation to portrait orientation in VirtualBox](http://twigstechtips.blogspot.com/2013/02/android-x86-how-to-change-screen.html)
 
 ### Web Inspiration
 + [httpster.net](http://httpster.net/)
