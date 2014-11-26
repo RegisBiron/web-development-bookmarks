@@ -329,9 +329,9 @@
 		+ [Hongkiat Hardening Wordpress Security](http://www.hongkiat.com/blog/hardening-wordpress-security/)
 		+ [20 Steps to Flexible and Secure Worpdress Installation](http://code.tutsplus.com/tutorials/20-steps-to-a-flexible-and-secure-wordpress-installation--wp-13236)
 	+ Short Codes
-		+[WordPress 3.9+ TinyMCE 4 Tweaks: Adding Styles, Buttons, Fonts, Drop-downs &amp; Pop-Ups - WPExplorer](http://www.wpexplorer.com/wordpress-tinymce-tweaks/)
-		+[Guide to Creating Your Own WordPress Editor Buttons](http://code.tutsplus.com/tutorials/guide-to-creating-your-own-wordpress-editor-buttons--wp-30182)
-		+[WordPress Shortcodes: A Complete Guide](http://www.smashingmagazine.com/2012/05/01/wordpress-shortcodes-complete-guide/)
+		+ [WordPress 3.9+ TinyMCE 4 Tweaks: Adding Styles, Buttons, Fonts, Drop-downs &amp; Pop-Ups - WPExplorer](http://www.wpexplorer.com/wordpress-tinymce-tweaks/)
+		+ [Guide to Creating Your Own WordPress Editor Buttons](http://code.tutsplus.com/tutorials/guide-to-creating-your-own-wordpress-editor-buttons--wp-30182)
+		+ [WordPress Shortcodes: A Complete Guide](http://www.smashingmagazine.com/2012/05/01/wordpress-shortcodes-complete-guide/)
 	+ Starter Themes
 		+ [Bones](https://github.com/eddiemachado/bones)
 		+ [Automattic underscores.me](https://github.com/Automattic/underscores.me)
