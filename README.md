@@ -321,6 +321,7 @@
 + [Custom Post Type UI | WebDevStudios.com](http://webdevstudios.com/plugin/custom-post-type-ui/)
 + [How to Move WordPress From Local Server to Live Site](http://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/)
 + [Dashicons](http://melchoyce.github.io/dashicons/)
++ [How to Create Infinite Scroll Pagination](http://wordpress.stackexchange.com/questions/72765/find-out-total-number-of-pages-in-global-query-on-archive-page)
 	+ Securtiy
 		+ [Say no to Hackers](http://www.searchenginejournal.com/just-say-no-to-hackers-how-to-harden-your-wordpress-security/63685/)
 		+ [Accessing Your Cron Job Manager](http://support.godaddy.com/help/article/3548/accessing-your-cron-job-manager-with-shared-hosting)
