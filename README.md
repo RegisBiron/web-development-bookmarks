@@ -146,7 +146,8 @@
 		+ [sorrycc/awesome-javascript · GitHub](https://github.com/sorrycc/awesome-javascript)
 		+ [desandro/imagesloaded · GitHub](https://github.com/desandro/imagesloaded)
 		+ [[be]lazy.js || A lazy loading and multi-serving image script](http://dinbror.dk/blazy/)
-	+ Snippets [Get scroll percentage of an element](http://jsfiddle.net/xanfar/Uwb55/3/)
+	+ Snippets
+		+ [Get scroll percentage of an element](http://jsfiddle.net/xanfar/Uwb55/3/)
 
 ### MAMP
 + [How do I connect to this localhost from another computer on the same network? - Stack Overflow](http://stackoverflow.com/questions/9682262/how-do-i-connect-to-this-localhost-from-another-computer-on-the-same-network)
@@ -321,7 +322,7 @@
 + [Custom Post Type UI | WebDevStudios.com](http://webdevstudios.com/plugin/custom-post-type-ui/)
 + [How to Move WordPress From Local Server to Live Site](http://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/)
 + [Dashicons](http://melchoyce.github.io/dashicons/)
-+ [How to Create Infinite Scroll Pagination](http://wordpress.stackexchange.com/questions/72765/find-out-total-number-of-pages-in-global-query-on-archive-page)
++ [How to Create Infinite Scroll Pagination](http://code.tutsplus.com/tutorials/how-to-create-infinite-scroll-pagination--wp-24873)
 	+ Securtiy
 		+ [Say no to Hackers](http://www.searchenginejournal.com/just-say-no-to-hackers-how-to-harden-your-wordpress-security/63685/)
 		+ [Accessing Your Cron Job Manager](http://support.godaddy.com/help/article/3548/accessing-your-cron-job-manager-with-shared-hosting)
