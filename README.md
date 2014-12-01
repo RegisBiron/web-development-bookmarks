@@ -37,7 +37,6 @@
 + ["Look Inside" Book Preview with BookBlock | Codrops](http://tympanus.net/codrops/2014/01/14/look-inside-book-preview-with-bookblock/)
 + [3D Restaurant Menu Concept](http://tympanus.net/Tutorials/3DRestaurantMenu/)
 + [CSS3 Bezier Curve Tester](http://www.css3beziercurve.net/)
-+ [Easing Functions Cheat Sheet](http://easings.net/)
 + [Perfectly justified CSS grid technique using inline-block - Code and ColoursCode andd Colours](http://code.jelmerdemaat.nl/2012/perfectly-justified-css-grid-technique-using-inline-block/)
 + [css - iOS Safari – How to disable overscroll but allow scrollable divs to scroll normally? - Stack Overflow](http://stackoverflow.com/questions/10238084/ios-safari-how-to-disable-overscroll-but-allow-scrollable-divs-to-scroll-norma)
 + [Useful :nth-child Recipes | CSS-Tricks](http://css-tricks.com/useful-nth-child-recipies/)
