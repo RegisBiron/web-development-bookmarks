@@ -337,6 +337,8 @@
 		+ [Bones](https://github.com/eddiemachado/bones)
 		+ [Automattic underscores.me](https://github.com/Automattic/underscores.me)
 		+ [Roots](https://github.com/roots/roots)
+	+ Tools
+		+ [Database Search and Replace Script in PHP](https://interconnectit.com/products/search-and-replace-for-wordpress-databases/)
 
 ### Yeoman
 + [Getting Started with Sass, Bourbon, and Neat with Yeoman](http://robots.thoughtbot.com/getting-started-with-sass-bourbon-and-neat-with-yeoman)
