@@ -323,6 +323,7 @@
 + [Dashicons](http://melchoyce.github.io/dashicons/)
 + [How to Create Infinite Scroll Pagination](http://code.tutsplus.com/tutorials/how-to-create-infinite-scroll-pagination--wp-24873)
 + [Moving A WordPress Website Without Hassle](http://www.smashingmagazine.com/2013/04/08/moving-wordpress-website/)
++ [Get Related Posts For Custom Post Type by Custom Taxonomy](http://isabelcastillo.com/related-custom-post-type-taxonomy)
 	+ Securtiy
 		+ [Say no to Hackers](http://www.searchenginejournal.com/just-say-no-to-hackers-how-to-harden-your-wordpress-security/63685/)
 		+ [Accessing Your Cron Job Manager](http://support.godaddy.com/help/article/3548/accessing-your-cron-job-manager-with-shared-hosting)
