@@ -179,6 +179,7 @@
 + [Documentation - bit-php-library - This is the documentation for the BIT API Class - PHP Library for the API for Bandsintown Concert Data - Google Project Hosting](https://code.google.com/p/bit-php-library/wiki/Documentation)
 + [How to get a Facebook Access Token | Custom Facebook Feed](http://smashballoon.com/custom-facebook-feed/access-token/)
 + [Displaying A Custom Facebook Page Feed | Call Me Nick](http://www.callmenick.com/labs/displaying-a-custom-facebook-page-feed)
++ [PHP Debug In Browser Console](http://www.paulund.co.uk/output-php-data-in-browser-console)
 
 ### Resources
 + [Tuts+ Code Tutorials](http://code.tutsplus.com/)
