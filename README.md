@@ -322,11 +322,14 @@
 + [Custom Post Type UI | WebDevStudios.com](http://webdevstudios.com/plugin/custom-post-type-ui/)
 + [How to Move WordPress From Local Server to Live Site](http://www.wpbeginner.com/wp-tutorials/how-to-move-wordpress-from-local-server-to-live-site/)
 + [Dashicons](http://melchoyce.github.io/dashicons/)
-+ [How to Create Infinite Scroll Pagination](http://code.tutsplus.com/tutorials/how-to-create-infinite-scroll-pagination--wp-24873)
 + [Moving A WordPress Website Without Hassle](http://www.smashingmagazine.com/2013/04/08/moving-wordpress-website/)
 + [Get Related Posts For Custom Post Type by Custom Taxonomy](http://isabelcastillo.com/related-custom-post-type-taxonomy)
 + [Display Categories Of A Custom Post Type](http://www.paulund.co.uk/display-categories-of-a-custom-post-type)
 + [Get Related Posts By Custom Taxonomy](http://alexmuraro.me/posts/get-related-posts-by-custom-taxonomy/)
+	+ AJAX
+		+ [How to Create Infinite Scroll Pagination](http://code.tutsplus.com/tutorials/how-to-create-infinite-scroll-pagination--wp-24873)
+		+ [How To Use Ajax In WordPress](http://designorbital.com/tutorials/how-to-use-ajax-in-wordpress/)
+		+ [Loading WordPress Posts Dynamically With AJAX](http://premium.wpmudev.org/blog/load-posts-ajax/)
 	+ Securtiy
 		+ [Say no to Hackers](http://www.searchenginejournal.com/just-say-no-to-hackers-how-to-harden-your-wordpress-security/63685/)
 		+ [Accessing Your Cron Job Manager](http://support.godaddy.com/help/article/3548/accessing-your-cron-job-manager-with-shared-hosting)
